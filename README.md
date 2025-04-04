@@ -1,4 +1,4 @@
-# ✨ Calci - A Command-Line Statistical Calculator
+# 🔢Calci - A Command-Line Statistical Calculator
 
 Calci is a Java-based command-line calculator that performs basic statistical operations like **Mean**, **Median**, **Mode**, and **Standard Deviation**.
 
@@ -34,19 +34,19 @@ javac Calci.java
 java Calci <operation> <numbers>
 ```
 
-## Inputs
+## ⌨️ Inputs
 - First argument: Operation (mean, median, mode, stddev)
 - Following arguments: A list of numbers (space-separated)
 
-## Output
+## 💻 Output
 The program prints the result of the selected operation to the console.
 
-You can see preview of output - 
+You can see preview of output - https://github.com/RanaAkansha/Calculator/blob/main/output-ss.png
 
-## Technologies used
+## ⚙️ Technologies used
 - Java
 - OOP concepts
 - Command line argument
 
-## Author
+## 📝 Author
 Akansha Rana
